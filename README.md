@@ -13,6 +13,6 @@ Key Features:
 
 This model aims to improve the reliability and effectiveness of **AML systems** by detecting hidden patterns in financial transactions while minimizing false positives.
 
-# Table of Contents:
+## Table of Contents:
 
 1. [Basic Attributes, Data Preprocessing and Normalisation](Research_Project___AML_Anomaly_Detection_Model___Basic_Attributes,_Data_Preprocessing_&_Normalisation.ipynb)
