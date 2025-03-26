@@ -17,3 +17,5 @@ This model aims to improve the reliability and effectiveness of **AML systems** 
 
 1. [Basic Attributes, Data Preprocessing and Normalisation](Research_Project___AML_Anomaly_Detection_Model___Basic_Attributes,_Data_Preprocessing_&_Normalisation.ipynb)
 2. [Anomaly Detection Ensemble Model Architecture - Training and Cross Validation on SAML-D dataset](Project_Research___AML_using_Semi_Supervised_Learning_Models___Blending_with_RF_(1).ipynb)
+3. [Anomaly Model Performance and Cross Validation on SAML-D](Project_Research___AML___Model_Performance_&_Cross_Validation___SAML_D.ipynb)
+4. [Anomaly Model Performance and Cross Validation on IBM Low Illicit Transaction Dataset](Project_Research_7C_IBM_Transaction_for_AML_LI_Small_Transactions_7C_Model_Performance_&_Cross_Validation.ipynb)
